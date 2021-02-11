@@ -1,4 +1,4 @@
-package io.github.superslowjelly.assignment71.characters;
+package io.github.superslowjelly.inclass71.characters;
 
 public class Archer extends Character {
 

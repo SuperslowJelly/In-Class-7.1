@@ -1,9 +1,9 @@
-package io.github.superslowjelly.assignment71;
+package io.github.superslowjelly.inclass71;
 
-import io.github.superslowjelly.assignment71.characters.Archer;
-import io.github.superslowjelly.assignment71.characters.Character;
-import io.github.superslowjelly.assignment71.characters.Warrior;
-import io.github.superslowjelly.assignment71.characters.Wizard;
+import io.github.superslowjelly.inclass71.characters.Archer;
+import io.github.superslowjelly.inclass71.characters.Character;
+import io.github.superslowjelly.inclass71.characters.Warrior;
+import io.github.superslowjelly.inclass71.characters.Wizard;
 
 //import java.util.Scanner;
 
